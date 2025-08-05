@@ -1,0 +1,27 @@
+INFO:root:Fetching data from OpenLibrary API...
+INFO:root:Fetched 100 books.
+INFO:root:Cleaning data...
+INFO:root:Cleaned data saved.
+INFO:root:Table created or verified.
+INFO:root:Inserted 100 books into DB.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:root:Visualization saved.
+2025-08-05 15:29:21 - INFO - Fetching data from OpenLibrary API...
+2025-08-05 15:29:24 - INFO - Fetched 100 books.
+2025-08-05 15:29:24 - INFO - Cleaning data...
+2025-08-05 15:29:24 - INFO - Cleaned data saved.
+2025-08-05 15:29:24 - INFO - Table created or verified.
+2025-08-05 15:29:24 - INFO - Inserted 100 books into DB.
+2025-08-05 15:29:25 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-05 15:29:25 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-05 15:29:25 - INFO - Visualization saved.
+2025-08-05 15:30:26 - INFO - Fetching data from OpenLibrary API...
+2025-08-05 15:30:29 - INFO - Fetched 100 books.
+2025-08-05 15:30:29 - INFO - Cleaning data...
+2025-08-05 15:30:29 - INFO - Cleaned data saved.
+2025-08-05 15:30:29 - INFO - Table created or verified.
+2025-08-05 15:30:29 - INFO - Inserted 100 books into DB.
+2025-08-05 15:30:30 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-05 15:30:30 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-05 15:30:30 - INFO - Visualization saved.
